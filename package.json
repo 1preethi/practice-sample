@@ -1,0 +1,14 @@
+{
+  "name": "practice-sample",
+  "version": "2.0.0",
+  "description": "Just an initial practice package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "preethi",
+  "license": "ISC",
+  "dependencies": {
+    "@changesets/cli": "2.22.0"
+  }
+}
