@@ -12,7 +12,13 @@ const sayGM = () => {
   console.log("GM......");
 };
 
+const sayGD = () => {
+  console.log("GD......");
+};
+
 module.exports = {
   sayHi,
-  sayHello
+  sayHello,
+  sayGM,
+  sayGD
 };
