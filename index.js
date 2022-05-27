@@ -16,9 +16,14 @@ const sayGD = () => {
   console.log("GD......");
 };
 
+const sayBreak = () => {
+  console.log("Break......");
+};
+
 module.exports = {
   sayHi,
   sayHello,
   sayGM,
-  sayGD
+  sayGD,
+  sayBreak
 };
